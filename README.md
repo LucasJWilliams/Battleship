@@ -1,2 +1,3 @@
 # Battleship
-Play battleship in pygame
+**Place your ships**
+> ![place](assets/place_ships.png)
